@@ -1,0 +1,8 @@
+1,Microsoft,Junior,USA,09/07/2021 13:49:27, 
+2,IBM,Junior,UK,09/07/2021 16:42:18, 
+3,Dell,Middle,RO,09/07/2021 16:43:52, 
+4,Apple,Intern,ES,09/07/2021 16:59:10, 
+5,Nasa,Assistant,USA,09/07/2021 18:22:55, 
+6,Barclays,Salesman,REMOTE,09/07/2021 18:25:20, 
+7,Bonita,Pizzar,RO,09/07/2021 18:29:04, 
+8,McDonalds,Cashier,RO,13/07/2021 20:22:00, 
